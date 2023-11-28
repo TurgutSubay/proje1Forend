@@ -1,0 +1,12 @@
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/dist/build/
+/var/
+/vendor/
+/.idea
+/.env
+/config/**/local/*
+/bundle/
+/node_modules/
+/public/build/
+npm-debug.log
